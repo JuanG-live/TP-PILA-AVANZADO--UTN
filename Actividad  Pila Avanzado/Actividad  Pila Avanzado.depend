@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\juan\desktop\juan\facultad\programacion\primer cuatrimestre, semestre\programación y laboratorio i\tp pilas avanz repaso\actividad  pila avanzado\pila.c
+	"pila.h"
+
+1490112217 c:\users\juan\desktop\juan\facultad\programacion\primer cuatrimestre, semestre\programación y laboratorio i\tp pilas avanz repaso\actividad  pila avanzado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1651024467 source:c:\users\juan\desktop\juan\facultad\programacion\primer cuatrimestre, semestre\programación y laboratorio i\tp pilas avanz repaso\actividad  pila avanzado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
